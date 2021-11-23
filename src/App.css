@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+.beer-main-info {
+  border: 2px solid black;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.beer-section1 {
+  display: flex;
+  flex-direction: row wrap;
+  justify-content: space-between;
+}
+
+.beer-section2 {
+  display: flex;
+  flex-direction: row wrap;
+  justify-content: space-between;
+}
